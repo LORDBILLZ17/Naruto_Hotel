@@ -16,7 +16,7 @@ import { MerchandiseItems } from "./Data/Index";
       {/* Hero Section */}
       <section
         className="relative bg-cover bg-center h-screen"
-        style={{ backgroundImage: "url(src/assets/6a76de36-c5fc-49ad-b9f0-d9d8123f7bb8.jpg)" }}
+        style={{ backgroundImage: "url(/6a76de36-c5fc-49ad-b9f0-d9d8123f7bb8.jpg)" }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col justify-center items-center text-center px-4">
           <h1 className="text-white text-4xl md:text-6xl font-bold mb-4">

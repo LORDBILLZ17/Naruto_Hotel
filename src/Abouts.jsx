@@ -16,7 +16,7 @@ const About = () => {
 
       <div className="max-w-5xl mx-auto grid gap-8 md:grid-cols-2">
         <img
-          src="src/assets/man cooking.avif"
+          src="/man cooking.avif"
           alt="Bakery"
           className="rounded-2xl shadow-lg w-full object-cover h-80"
         />

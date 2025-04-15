@@ -27,7 +27,7 @@ const Navbro = () => {
             {/* Logo */}
             <Link to="/" className='flex items-center gap-2 ml-6'>
               <img
-                src="src/assets/92f1cc02-33c9-4d90-a769-81922395c293.jpg"
+                src="/92f1cc02-33c9-4d90-a769-81922395c293.jpg"
                 alt="Logo"
                 className='w-16 h-16 rounded-full object-cover'
               />
